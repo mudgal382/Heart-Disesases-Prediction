@@ -1,1 +1,1 @@
-# Heart-Disesases-Prediction
+# Heart-Diseases-Prediction
